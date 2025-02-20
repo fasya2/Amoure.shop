@@ -700,7 +700,7 @@ footer .credit a {
 }
 
 /* phone */
-@media (max-width: 450px) {
+@media (max-width: 470px) {
   html {
     font-size: 55%;
     height: 1000px;
