@@ -1124,6 +1124,7 @@ footer .credit a {
     padding: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
+     background-color: #fff;
     transform: translateY(20px);
     animation: fadeInUp 0.8s ease-out forwards;
   }
@@ -1141,14 +1142,14 @@ footer .credit a {
   }
 
   /* Judul halaman */
-  h1 {
+  .container h1 {
     color: #222;
     text-align: center;
     font-size: 26px;
     margin-bottom: 15px;
   }
 
-  p {
+  .container p {
     text-align: center;
     font-size: 20px;
     margin-bottom: 15px;
