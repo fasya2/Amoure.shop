@@ -1148,6 +1148,14 @@ footer .credit a {
     margin-bottom: 15px;
   }
 
+  p {
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 15px;
+    color: #222
+  }
+    
+
   /* Informasi kontak */
   .contact-info {
     margin: 15px 0;
